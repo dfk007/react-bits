@@ -1,3 +1,5 @@
+// useState React hook to manage a counter state.
+
 function Button() {
   // a,b = useState()
   // counter, setCounter = useState()
